@@ -15,11 +15,11 @@ fruits.unshift("lemons")
 end
 
 def remove_element_from_end_of_array(array)
-lime = fruits.pop
+  element = array.pop
 end
 
 def remove_element_from_start_of_array(array)
-element = fruits.shift 
+element = array.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
