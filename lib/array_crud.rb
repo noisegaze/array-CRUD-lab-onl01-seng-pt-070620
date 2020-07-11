@@ -15,7 +15,7 @@ fruits.unshift("lemons")
 end
 
 def remove_element_from_end_of_array(array)
-fruits.pop
+lime_fruit = fruits.pop
 end
 
 def remove_element_from_start_of_array(array)
